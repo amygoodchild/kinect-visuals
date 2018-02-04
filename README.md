@@ -27,6 +27,6 @@ Easy to make new designs, just look up the numbers for the skeleton joints you w
 
 ![Example of kaleidoscope Kinect sketch](https://github.com/amygoodchild/kinect-visuals/blob/master/Example%20Images/kaleidoscope.PNG)
 
-[See an example of (an earlier version of) this sketch on Youtube]https://www.youtube.com/watch?v=z4lCLuj5lGU
+[See an example of (an earlier version of) this sketch on Youtube](https://www.youtube.com/watch?v=z4lCLuj5lGU)
 
 Draws curvy kaleidoscopey shapes based on the tracked skeleton. Reacts to beats in music. 
