@@ -16,9 +16,17 @@ Drawing in the same sketch as the Kinect library seemed to cause conflicts with 
 
 ## Get Skeleton - Weird Bodies
 
-[See results of this sketch on Instagram](https://www.instagram.com/p/BeWJS-Cg9xX/)
+![Example of weird bodies Kinect sketch](https://github.com/amygoodchild/kinect-visuals/blob/master/Example%20Images/weirdbodies.PNG)
+
+[See a video of this sketch on Instagram](https://www.instagram.com/p/BeWJS-Cg9xX/)
 
 Draws some weird little bodies by joining up skeleton points "wrongly".
-Easy to make new designs, just look up the numbers for the skeleton joints you want to use.
+Easy to make new designs, just look up the numbers for the skeleton joints you want to use. (Google kinect skeleton joints - the numbers are standardised)
 
- 
+## Get Skeleton - Kaleidoscope
+
+![Example of kaleidoscope Kinect sketch](https://github.com/amygoodchild/kinect-visuals/blob/master/Example%20Images/kaleidoscope.PNG)
+
+[See an example of (an earlier version of) this sketch on Youtube]https://www.youtube.com/watch?v=z4lCLuj5lGU
+
+Draws curvy kaleidoscopey shapes based on the tracked skeleton. Reacts to beats in music. 
