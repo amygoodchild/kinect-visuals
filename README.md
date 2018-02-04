@@ -1,7 +1,7 @@
 # kinect-visuals
-Exploring visuals/body representations using Processing and skeleton tracking with a Kinect v2
-Requires the Kinect SDK to be instelled, as well as the Kinect PV2 library for processing. 
+Exploring visuals/body representations using Processing and skeleton tracking with a Kinect v2.
 
+Requires the Kinect SDK to be installed, as well as the Kinect PV2 library and OSCP5 libraries for Processing.
 
 ## Send Skeleton 
 
